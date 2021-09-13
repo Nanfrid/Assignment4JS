@@ -1,6 +1,6 @@
 # Komputer Store
 
-Assignment 4 for the forntend Accelerated course at Noroff. It uses a provided API
+Assignment 4 for the frontend Accelerated course at Noroff. It uses a provided API
 
 ## Assignment4JS
 
