@@ -155,7 +155,7 @@ const getLoan = () => {
 const repay = () => {
   if (earned > currentLoan && currentLoan != 0) {
     let rest = earned - currentLoan;
-    balance = rest;
+    balance += rest;
     currentLoan = 0;
     earned = 0;
     updateOutLoan(currentLoan);
