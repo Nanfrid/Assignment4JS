@@ -1,0 +1,19 @@
+{
+  "name": "assignment4js",
+  "version": "1.0.0",
+  "description": "Assignment 1 for frontend course - Noroff",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/NanfridIdso/assignment4js.git"
+  },
+  "author": "NAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/NanfridIdso/assignment4js/issues"
+  },
+  "homepage": "https://gitlab.com/NanfridIdso/assignment4js#readme"
+}

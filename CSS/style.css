@@ -1,0 +1,178 @@
+/*Style for the header element*/
+header {
+  position: absolute;
+  width: 99%;
+  height: 10rem;
+  left: 0.6rem;
+  top: 0.5rem;
+  background: #91becc;
+}
+
+/*Style for all h1 elements*/
+h1 {
+  text-align: center;
+  font-family: "Urbanist", sans-serif;
+  font-size: 4rem;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Bebas Neue", cursive;
+  font-size: 3rem;
+}
+
+h4 {
+  text-align: center;
+  font-family: "Urbanist", sans-serif;
+  font-size: 2rem;
+  margin-top: 1.4rem;
+  margin-bottom: 0rem;
+}
+
+section div h5 {
+  background-color: #4caf50;
+  width: 20rem;
+  font-size: 1.8rem;
+  border-radius: 1rem;
+  margin-left: 1rem;
+  margin-top: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  box-shadow: 8px 8px 4px rgba(0, 0, 0, 0.25);
+  color: #f7f7f7;
+}
+
+/*Styling for the loan section*/
+#loan {
+  position: absolute;
+  width: 22rem;
+  height: 53rem;
+  left: 3rem;
+  top: 13rem;
+  background: #ebc934;
+  box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.25);
+}
+
+#balanceAndLoan {
+  margin-left: 3rem;
+  font-size: 1.2rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*Styling for the "Great Deals" ad section*/
+#ad {
+  position: absolute;
+  width: 22rem;
+  height: 53rem;
+  left: 95rem;
+  top: 13rem;
+  background: #ebc934;
+  box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.25);
+  text-align: center;
+}
+
+/*Styling for the "Work" section*/
+#work {
+  position: absolute;
+  width: 40rem;
+  height: 20rem;
+  left: 40rem;
+  top: 16em;
+  background: #e6e6e6;
+}
+
+#earned {
+  margin-left: 5rem;
+  font-size: 1.2rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.hidden {
+  visibility: hidden;
+}
+
+/*Styling for the "Browse laptops" section*/
+#lap {
+  position: absolute;
+  width: 60rem;
+  height: 26rem;
+  left: 30rem;
+  top: 39rem;
+  background: #e6e6e6;
+}
+
+#browse {
+  position: absolute;
+  display: inline-block;
+  margin-left: 22rem;
+}
+
+#laptops {
+  height: 2rem;
+  border-radius: 0.5rem;
+  width: 14rem;
+}
+img {
+  width: 20rem;
+  border-radius: 0.5rem;
+}
+
+#laptopContainer {
+  margin-left: 1rem;
+  display: inline-block;
+}
+
+#laptopContainer2 {
+  display: inline-grid;
+  margin-top: 0;
+}
+
+#laptopContainer3 {
+  position: absolute;
+  margin-left: 21rem;
+  width: 33%;
+}
+
+#lapName {
+  font-size: 1.5rem;
+  font-family: "Urbanist", sans-serif;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+/*Styling for the buttons*/
+button {
+  background-color: #4caf50;
+  border: none;
+  border-radius: 1rem;
+  color: white;
+  padding: 1.25rem;
+  text-align: center;
+  font-size: 1.1rem;
+  margin: 1rem 1rem;
+  cursor: pointer;
+  width: 14rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#buyButt {
+  margin-bottom: 4rem;
+  margin-left: 0;
+}
+
+#loanButt {
+  margin-left: 4.2rem;
+  box-shadow: 8px 8px 4px rgba(0, 0, 0, 0.25);
+}
+
+#bankButt {
+  background-color: #0d94bd;
+  margin-left: 5rem;
+}
+
+#workButt {
+  background-color: #0d94bd;
+}
+
+#repayButt {
+  background-color: #f53d3d;
+  margin-left: 13rem;
+}
